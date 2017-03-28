@@ -2,6 +2,8 @@
 
 Work in progress packaging of Cura, software for 3d printers. Currently segfaults due to a python-pyqt [bug](https://bugs.archlinux.org/task/53371).
 
+**Note these packages have been moved into the [community] repo.**
+
 ## Repository
 
 Add the following to your pacman.conf
